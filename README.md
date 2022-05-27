@@ -29,25 +29,29 @@ Tech
 
 This project used the following:
 
- * HTML
  * CSS
  * Javascript
+ * SQl
+ * MYSQL2
  * Node.js
- * express.js
- * uuid (for unique ids assigned to different notes)
- * fs (for access to the file system)
- * nodemon (not required but a handy tool)
- * heroku
+ * dotenv
+ * sequelize
+ * express
+ * 
 
 
 Instalations
 --------------------------------------------------------------------------------------------
  
- * it is required to install express in the command line by running 'npm i express'.
+ * express
 
- * it is required to install uuid in the command line.
+ * sequelize
 
- * installed nodemon using the comand line, this was helpful, but not required.
+ * dotenv
+
+ * MYSQL2
+
+ * Node.js
 
 
 
