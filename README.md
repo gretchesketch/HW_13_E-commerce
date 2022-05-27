@@ -12,14 +12,13 @@ Table of Contents
  Introduction
 ----------------------------------------------------------------------------------------------------------
 
-        A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+        A database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
 
     
 
-    
 
- * video walk through link: 
+ * video walk through link: https://drive.google.com/file/d/1060s6vqTT0aldBV_GTh82GY_YY2V7npO/view
 
  * Repo URL: https://github.com/gretchesketch/HW_13_E-commerce
 
@@ -39,6 +38,7 @@ This project used the following:
  * sequelize
  * express
  * insomnia
+ * nodemon
 
 
 Instalations
@@ -62,9 +62,6 @@ Instalations
  
  * Gretchen Jensen : https://github.com/gretchesketch
 
- * Special shout out to my tutor Henry
-
- * Also like to thank my class instructor, Trey, for making himself available to ensure the class got through the homework assignment.
 
 
 
