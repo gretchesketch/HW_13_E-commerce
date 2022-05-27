@@ -37,7 +37,7 @@ This project used the following:
  * dotenv
  * sequelize
  * express
- * 
+ * insomnia
 
 
 Instalations
