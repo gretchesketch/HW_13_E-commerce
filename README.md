@@ -12,6 +12,7 @@ Table of Contents
  Introduction
 ----------------------------------------------------------------------------------------------------------
 
+        A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
 
     
